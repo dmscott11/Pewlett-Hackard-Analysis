@@ -15,3 +15,4 @@ The two questions that Pewlett Hackard would like answered are below.
 First: There are 72,458 total upcoming retirements. That does not mean that all positions need to be filled immediately, but it does mean that there will be a restructuring of these departments at that time. 
 
 Second: There are not enough retirement-ready employees that are able to mentor upcoming personnel. There are only 1,940 possible mentors while there are 300,000+ total employees. Not everyone will need mentoring, but it is safe to assume that this number of mentors cannot support the entirety of the staff. 
+![]images/mentor_count.png
