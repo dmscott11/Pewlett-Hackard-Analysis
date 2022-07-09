@@ -21,7 +21,7 @@ FROM unique_titles
 GROUP BY title
 order by count desc;
 
---Delieverable 2; Creating mentoship eligibility table
+--Deliverable 2; Creating mentoship eligibility table
 select distinct on (e.emp_no) e.emp_no, e.first_name, e.last_name, e.birth_date, de.from_date, de.to_date, t.title
 into mentorship_eligibility
 from employees as e
@@ -32,3 +32,9 @@ from employees as e
 where e.birth_date BETWEEN '1965-01-01' and '1965-12-31'
 order by emp_no asc
 
+--Deliverable 3 question
+SELECT COUNT(emp_no), title
+into mentor_count
+FROM mentorship_eligibility
+GROUP BY title
+order by count desc;
