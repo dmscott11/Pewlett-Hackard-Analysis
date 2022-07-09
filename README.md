@@ -8,7 +8,8 @@ Our findings regarding the analysis of Pewlett-Hackards aging employees can be e
 - These 72,458 employees were all born from 1952-1955. 
 - The retirements are taking place across 7 different job titles.
   - The most heavily impacted being the Senior Engineers and Senior Staff. 
-  ![](/images/retirement_titles.png)
+
+![](/images/retirement_titles.png)
 - There are 1,940 employees that are eligible to be mentors.
 ## Summary
 The two questions that Pewlett Hackard would like answered are below. 
